@@ -1,24 +1,22 @@
 h1 { 
-    color: blue; 
+    color: rgb(37, 37, 151); 
     text-align: center; 
   } 
    
-  h2 { 
-    font-style: italic; 
-    text-align: center; 
+  h2 {  
+    text-align: left;
+    color: rgba(10, 10, 150, 0.637); 
   } 
 
-  img {
-    text-align: center;
-  }
-   
+
   p { 
     font-family: sans-serif; 
-    color: red;
+    color: rgb(6, 145, 187);
   } 
    
   ol { 
     font-size: 20px; 
     line-height: 30px;
     margin-left: 200px;
+    color: blue;
   } 
